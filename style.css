@@ -1,3 +1,39 @@
-.feedback {
-    display: inline;
+body {
+    background-color: #005248;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+label {
+    color: white;
+}
+li {
+    font-size: 30px;
+}
+.my-games a {
+    font-size: 25px;
+    color: white;
+    
+}
+.my-games a:active {
+    color: blue;
+}
+.my-games a:visited {
+    color: white;
+  }
+
+.social_img {
+    background-color: black;
+    border: 5px solid black;
+    color: white;
+    font-size: 20px;
+    border-radius: 7px;
+    margin-right: 30px;
+}
+
+.social {
+    margin-top: 20px;
 }
